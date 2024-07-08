@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rsshub:
+  - apiVersion: v2
+    appVersion: "2024-07-06"
+    created: "2024-07-08T13:06:31.079314494Z"
+    description: A Helm chart for Kubernetes
+    digest: 2e92b915404ad33b13b2a7cd61e920844e1aca4dc7d4d07ad1fcb6bfb8d0b363
+    name: rsshub
+    type: application
+    urls:
+    - https://github.com/RSSNext/helm-charts/releases/download/rsshub-0.1.1/rsshub-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-07-08T13:06:31.079326366Z"
