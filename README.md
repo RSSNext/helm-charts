@@ -1,6 +1,6 @@
 # RSSNext Kubernetes Helm Charts
 
-![Helm: v3](https://img.shields.io/static/v1?label=Helm&message=v3&color=informational&logo=helm)
+[![Helm: v3](https://img.shields.io/static/v1?label=Helm&message=v3&color=informational&logo=helm)](https://helm.sh)
 
 The code is provided as-is with no warranties.
 
